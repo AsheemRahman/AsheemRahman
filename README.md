@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asheemrahman&label=Profile%20views&color=0e75b6&style=flat" alt="asheemrahman" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asheemrahman" alt="asheemrahman" /></a> </p>
-
 - 💬 Ask me about **mongodb,express,react,node**
 
 - 📫 How to reach me **mhdasheem@gmail.com**
