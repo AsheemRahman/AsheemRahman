@@ -55,7 +55,6 @@ const asheem = {
 - 🧩 Practising problem-solving on **LeetCode**
 - 💬 Ask me about **Software Development & MERN**
 - 🛠️ **Scalable Backend Architecture & REST APIs**
-- 🚀 Building projects with **Modern Web Technologies**
 - 🧩 Regular problem solver on **LeetCode**
 
 </td>
