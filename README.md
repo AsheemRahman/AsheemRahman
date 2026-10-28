@@ -105,7 +105,7 @@ Authentication, subscriptions, role-based dashboards, video consultations and pu
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-[🌐 Live Demo](https://github.com/AsheemRahman) · [💻 Frontend](https://github.com/AsheemRahman) · [⚙️ Backend](https://github.com/AsheemRahman)
+[🌐 Live Demo](https://trade-club.lol/) · [💻 Frontend](https://github.com/AsheemRahman/TradeClub-Frontend) · [⚙️ Backend](https://github.com/AsheemRahman/TradeClub-Backend)
 
 </td>
 <td width="50%" valign="top">
@@ -119,7 +119,7 @@ Reusable components showcasing music, career, media and work, with SEO and page-
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![SEO](https://img.shields.io/badge/SEO-Optimized-success?style=flat-square)
 
-[🌐 Live Demo](https://github.com/AsheemRahman) · [💻 Source Code](https://github.com/AsheemRahman)
+[🌐 Live Demo](https://soorajsanthosh.com/) · [💻 Source Code](https://github.com/AsheemRahman)
 
 </td>
 </tr>
@@ -136,7 +136,7 @@ Authentication, product management, RESTful APIs, database operations and secure
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
 
-[🌐 Live Demo](https://github.com/AsheemRahman) · [💻 Source Code](https://github.com/AsheemRahman)
+[🌐 Live Demo](https://github.com/AsheemRahman) · [💻 Source Code](https://github.com/AsheemRahman/Wuzzys-Toy-Ecommerce)
 
 </td>
 <td width="50%" valign="top">
